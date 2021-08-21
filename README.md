@@ -1,3 +1,5 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/f0wl/huan_unpack)](https://goreportcard.com/report/github.com/f0wl/huan_unpack)
+
 # huan_unpack
 
 A simple unpacking script for the [Huan PE Crypter](https://github.com/frkngksl/Huan) by Furkan Göksel. Since this Crypter will likely be used for malicious purposes sooner rather than later I chose to write this unpacking script and a matching [Yara rule](https://github.com/f0wl/yara_rules/blob/main/windows/crypter/huan_crypter.yar) to detect the usage of Huan.
